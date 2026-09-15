@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter autosaves
+.ipynb_checkpoints/
+
+# Large raw datasets
+data/training.1600000.processed.noemoticon.csv
+data/*.zip
+
+# Local logs
+*.log

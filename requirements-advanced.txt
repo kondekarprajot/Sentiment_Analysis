@@ -1,0 +1,7 @@
+-r requirements.txt
+
+# Optional deep-learning extensions
+tensorflow>=2.15
+transformers>=4.40
+torch>=2.2
+datasets>=2.18

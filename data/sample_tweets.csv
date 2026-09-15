@@ -1,0 +1,11 @@
+target,id,date,query,user,text
+0,1,Mon Apr 06 22:19:45 PDT 2009,NO_QUERY,user1,"I hate when my phone battery dies during travel"
+4,2,Mon Apr 06 22:20:10 PDT 2009,NO_QUERY,user2,"Amazing service today, I am so happy with the update"
+0,3,Mon Apr 06 22:21:15 PDT 2009,NO_QUERY,user3,"This delay is terrible and ruined my morning"
+4,4,Mon Apr 06 22:22:30 PDT 2009,NO_QUERY,user4,"Loved the new cafe downtown, great coffee and staff"
+2,5,Mon Apr 06 22:23:35 PDT 2009,NO_QUERY,user5,"The package arrived at noon today"
+0,6,Mon Apr 06 22:24:40 PDT 2009,NO_QUERY,user6,"My laptop crashed again and I lost my work"
+4,7,Mon Apr 06 22:25:45 PDT 2009,NO_QUERY,user7,"Feeling grateful for the support from everyone"
+2,8,Mon Apr 06 22:26:50 PDT 2009,NO_QUERY,user8,"Meeting moved to Friday afternoon"
+0,9,Mon Apr 06 22:27:55 PDT 2009,NO_QUERY,user9,"Worst app experience after the latest release"
+4,10,Mon Apr 06 22:28:59 PDT 2009,NO_QUERY,user10,"The concert was brilliant and the crowd was electric"
